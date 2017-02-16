@@ -1,53 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>公司主页</title>
-<style>
-.div1{
-	height:100px;
-	width:820px;
-	background-image:url(01.jpg);
-	backgrround-repeat:no-repeat;
-	background-position:center;
-	background-size:cover;
-}
-.div2{
-	width:820px;
-	background-color:#d2e7ff;
-}
-table{
-	font-size:12px;
-	font-family:"幼圆";
-}
-.div3{
-	width:820px;
-	height:320px;
-	border-style:solid;
-	border-color:#ffeedd;
-	border-width:10px;
-	border-radius:60px;
-}
-.div4{
-	width:810px;
-	height:150px;
-	text-align:left;
-	border-bottom-width:2px;
-	border-bottom-style:dotted;
-	border-bottom-color:#ffeedd;
-}
-.div5{
-	width:710px;
-	height:150px;
-	text-align:left;
-}
-ul{
-	font-size:15px;
-	font-family:"楷体";
-}
-</style>
+<title>个人主页</title>
 </head>
-
 <body>
 <center>
 <div>
